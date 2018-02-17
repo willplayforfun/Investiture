@@ -1,0 +1,960 @@
+﻿Log file open, 02/16/18 20:41:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Investiture
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1962360239) SRandInit(-1962360239).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.412821
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.17-04.41.48:724][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.17-04.41.48:724][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.17-04.41.48:784][  0]LogInit: Computer: DESKTOP-L2CNR04
+[2018.02.17-04.41.48:784][  0]LogInit: User: Matt
+[2018.02.17-04.41.48:784][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.02.17-04.41.48:784][  0]LogInit: High frequency timer resolution =2.437498 MHz
+[2018.02.17-04.41.48:786][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.02.17-04.41.48:786][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.17-04.41.48:786][  0]LogMemory: Process Physical Memory: 274.83 MB used, 274.83 MB peak
+[2018.02.17-04.41.48:786][  0]LogMemory: Process Virtual Memory: 270.37 MB used, 270.37 MB peak
+[2018.02.17-04.41.48:786][  0]LogMemory: Physical Memory: 3337.00 MB used,  4780.30 MB free, 8117.30 MB total
+[2018.02.17-04.41.48:786][  0]LogMemory: Virtual Memory: 675.11 MB used,  4780.30 MB free, 134217728.00 MB total
+[2018.02.17-04.41.49:413][  0]LogInit: Using OS detected language (en-US).
+[2018.02.17-04.41.49:413][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.17-04.41.49:597][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.17-04.41.50:884][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.17-04.41.57:468][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.17-04.41.57:605][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GPU' (Feature Level 11_0)
+[2018.02.17-04.41.57:605][  0]LogD3D11RHI:       997/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.17-04.41.57:623][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2018.02.17-04.41.57:623][  0]LogD3D11RHI:       128/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.17-04.41.57:630][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.17-04.41.57:630][  0]LogD3D11RHI:       0/0/4058 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.17-04.41.57:630][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.17-04.41.57:647][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.17-04.41.57:647][  0]LogD3D11RHI:     GPU DeviceId: 0x134b (for the marketing name, search the web for "GPU Device Id")
+[2018.02.17-04.41.57:647][  0]LogWindows: EnumDisplayDevices:
+[2018.02.17-04.41.57:647][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2018.02.17-04.41.57:648][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.02.17-04.41.57:649][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.02.17-04.41.57:649][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.17-04.41.57:649][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GPU
+[2018.02.17-04.41.57:649][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.17-04.41.57:649][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.17-04.41.57:649][  0]LogRHI: Texture pool is 698 MB (70% of 997 MB)
+[2018.02.17-04.41.57:730][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.17-04.41.57:762][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.02.17-04.41.57:765][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Intermediate/Shaders/WorkingDirectory/520/).
+[2018.02.17-04.41.57:765][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Matt/AppData/Local/Temp/UnrealShaderWorkingDir/EF72856242200223228F42A737C7C8D8/'.
+[2018.02.17-04.41.57:766][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.17-04.42.03:677][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.17-04.42.03:867][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.17-04.42.04:082][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.17-04.42.04:287][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.17-04.42.04:549][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.17-04.42.04:783][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.17-04.42.05:001][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.17-04.42.05:194][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.17-04.42.05:440][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.17-04.42.05:658][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.17-04.42.05:888][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.17-04.42.06:092][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.17-04.42.06:288][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.17-04.42.06:487][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.17-04.42.06:896][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.17-04.42.06:897][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.17-04.42.07:174][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.17-04.42.07:378][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.17-04.42.07:720][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.17-04.42.07:838][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.17-04.42.08:069][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.17-04.42.08:349][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.17-04.42.08:618][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.17-04.42.08:882][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.17-04.42.08:883][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.17-04.42.11:877][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.17-04.42.12:466][  0]LogDerivedDataCache: Loaded boot cache 0.59s 78MB C:/Users/Matt/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.17-04.42.12:466][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Matt/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.17-04.42.12:466][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.17-04.42.12:466][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.17-04.42.12:466][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.17-04.42.12:466][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.17-04.42.12:530][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.17-04.42.12:559][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Matt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.17-04.42.12:588][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.17-04.42.12:590][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.17-04.42.12:629][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.17-04.42.12:629][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.17-04.42.14:705][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.17-04.42.15:775][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.17-04.42.16:011][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.17-04.42.16:011][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.17-04.42.16:011][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.17-04.42.16:011][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.17-04.42.16:011][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.17-04.42.16:142][  0]LogNetVersion: Investiture , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1457158739)
+[2018.02.17-04.42.16:677][  0]LogAssetRegistry: FAssetRegistry took 0.0319 seconds to start up
+[2018.02.17-04.42.18:105][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.157811 seconds
+[2018.02.17-04.42.18:143][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.02.17-04.42.18:143][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.02.17-04.42.18:143][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.17-04.42.18:293][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.17-04.42.31:211][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.17-04.42.31:296][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.17-04.42.33:511][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.17-04.42.34:711][  0]SourceControl: Source control is disabled
+[2018.02.17-04.42.34:711][  0]SourceControl: Source control is disabled
+[2018.02.17-04.42.34:880][  0]SourceControl: Source control is disabled
+[2018.02.17-04.42.35:010][  0]SourceControl: Source control is disabled
+[2018.02.17-04.42.37:461][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.17-04.42.38:227][  0]LogOcInput: OculusInput pre-init called
+[2018.02.17-04.42.39:024][  0]LogEngine: Initializing Engine...
+[2018.02.17-04.42.39:039][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.02.17-04.42.39:615][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.17-04.42.39:615][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2018.02.17-04.42.39:615][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.17-04.42.39:978][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.17-04.42.40:005][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.42.40:874][  0]LogInit: FAudioDevice initialized.
+[2018.02.17-04.42.41:064][  0]LogDerivedDataCache: Saved boot cache 0.19s 78MB C:/Users/Matt/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.17-04.42.41:086][  0]LogInit: Texture streaming: Enabled
+[2018.02.17-04.42.41:406][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.17-04.42.41:786][  0]LogInit: Transaction tracking system initialized
+[2018.02.17-04.42.42:697][  0]BlueprintLog: New page: Editor Load
+[2018.02.17-04.42.45:716][  0]LocalizationService: Localization service is disabled
+[2018.02.17-04.42.47:943][  0]LogConsoleResponse: Display: 
+[2018.02.17-04.42.48:957][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.17-04.42.48:957][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.17-04.42.48:957][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.17-04.42.49:497][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/' took 0.01s
+[2018.02.17-04.42.52:904][  0]SourceControl: Source control is disabled
+[2018.02.17-04.42.52:906][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.17-04.42.52:907][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.02.17-04.42.52:907][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.17-04.42.53:015][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 108.101ms to complete.
+[2018.02.17-04.42.53:016][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.109
+[2018.02.17-04.42.53:536][  0]LogCollectionManager: Loaded 0 collections in 0.008585 seconds
+[2018.02.17-04.42.53:729][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/Collections/' took 0.01s
+[2018.02.17-04.42.53:729][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Developers/Matt/Collections/' took 0.01s
+[2018.02.17-04.42.53:729][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Collections/' took 0.01s
+[2018.02.17-04.42.53:729][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.17-04.42.53:754][  0]LogContentBrowser: Native class hierarchy populated in 0.0245 seconds. Added 2364 classes and 521 folders.
+[2018.02.17-04.42.53:934][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.02.17-04.42.54:752][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.02.17-04.42.54:940][  0]LogSlate: Took 0.033539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.17-04.42.54:967][  0]LogSlate: Took 0.013283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.17-04.42.54:996][  0]LogSlate: Took 0.014287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.17-04.42.55:181][  0]LogRenderer: Reallocating scene render targets to support 312x196 Format 10 NumSamples 1 (Frame:1).
+[2018.02.17-04.42.55:722][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.02.17-04.42.55:722][  0]LogLoad: (Engine Initialization) Total time: 77.96 seconds
+[2018.02.17-04.42.55:722][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.17-04.42.55:722][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.02.17-04.42.55:722][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.02.17-04.42.55:762][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.02.17-04.42.56:319][  2]LogAssetRegistry: Asset discovery search completed in 39.6635 seconds
+[2018.02.17-04.42.56:323][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.17-04.42.56:323][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000176 seconds (updated 0 objects)
+[2018.02.17-04.44.07:807][378]LogHttp: Warning: 000002BA0D720700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.02.17-04.44.07:807][378]LogHttp: Warning: 000002BA0D720700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.02.17-04.44.07:807][378]LogHttp: Warning: 000002BA0D720700: libcurl info message cache 1 (Closing connection 0)
+[2018.02.17-04.46.07:842][ 22]LogHttp: Warning: 000002BA0D720D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.02.17-04.46.07:843][ 22]LogHttp: Warning: 000002BA0D720D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.02.17-04.46.07:843][ 22]LogHttp: Warning: 000002BA0D720D00: libcurl info message cache 1 (Closing connection 1)
+[2018.02.17-04.48.06:592][582]LogSlate: Took 0.014357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.17-04.48.07:802][582]LogAIModule: Creating AISystem for world TestMap
+[2018.02.17-04.48.07:863][582]Cmd: MAP LOAD FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.17-04.48.07:864][582]LightingResults: New page: Lighting Build
+[2018.02.17-04.48.08:011][582]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0007 seconds. Added 5 classes and 0 folders.
+[2018.02.17-04.48.08:013][582]LoadErrors: New page: Loading map: TestMap.umap
+[2018.02.17-04.48.08:014][582]MapCheck: New page: Map Check
+[2018.02.17-04.48.08:014][582]LightingResults: New page: Lighting Build
+[2018.02.17-04.48.08:229][582]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.17-04.48.08:351][582]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.17-04.48.08:505][582]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 154.553ms to complete.
+[2018.02.17-04.48.08:507][582]LogFileHelpers: Loading map 'TestMap' took 0.644
+[2018.02.17-04.48.08:511][582]LogSlate: Took 0.000350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.17-04.48.08:910][584]LogHttp: Warning: 000002BA42C88400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.02.17-04.48.08:911][584]LogHttp: Warning: 000002BA42C88400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.02.17-04.48.08:911][584]LogHttp: Warning: 000002BA42C88400: libcurl info message cache 1 (Closing connection 2)
+[2018.02.17-04.50.08:933][220]LogHttp: Warning: 000002BA42C5C880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.02.17-04.50.08:933][220]LogHttp: Warning: 000002BA42C5C880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.02.17-04.50.08:933][220]LogHttp: Warning: 000002BA42C5C880: libcurl info message cache 1 (Closing connection 3)
+[2018.02.17-04.50.57:221][473]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.17-04.50.57:333][473]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-04.50.57:334][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-04.50.57:335][473]PIE: New page: PIE session: TestMap (Feb 16, 2018, 12:50:57 PM)
+[2018.02.17-04.50.57:335][473]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2018.02.17-04.50.57:344][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008492s)
+[2018.02.17-04.50.57:345][473]LogAIModule: Creating AISystem for world TestMap
+[2018.02.17-04.50.57:345][473]LogPlayLevel: PIE: World Init took: (0.001456s)
+[2018.02.17-04.50.57:346][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.010616s)
+[2018.02.17-04.50.57:411][473]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.50.57:451][473]LogInit: FAudioDevice initialized.
+[2018.02.17-04.50.57:601][473]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.17-04.50.57:610][473]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2018.02.16-20.50.57
+[2018.02.17-04.50.57:612][473]LogWorld: Bringing up level for play took: 0.004546
+[2018.02.17-04.50.57:789][473]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2018.02.17-04.50.57:804][473]PIE: Play in editor start time for /Game/UEDPIE_0_TestMap 0.463
+[2018.02.17-04.50.57:805][473]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-04.50.57:984][473]LogRenderer: Reallocating scene render targets to support 640x360 Format 10 NumSamples 1 (Frame:1).
+[2018.02.17-04.50.59:871][533]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-04.51.00:710][561]LogBlueprintUserMessages: [FirstPersonController_C_0] Stopping replay
+[2018.02.17-04.51.00:710][561]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Entered End
+[2018.02.17-04.51.02:692][630]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-04.51.02:795][630]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-04.51.08:548][791]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 116 classes and 0 folders.
+[2018.02.17-04.51.10:275][791]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue2
+	FirstPersonController_C /Engine/Transient.World_1:PersistentLevel.FirstPersonController_C_0
+	Function /Game/Blueprints/FirstPersonController.FirstPersonController_C:ExecuteUbergraph_FirstPersonController:0797
+[2018.02.17-04.51.10:276][791]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	FirstPersonController_C /Engine/Transient.World_1:PersistentLevel.FirstPersonController_C_0
+	Function /Game/Blueprints/FirstPersonController.FirstPersonController_C:ExecuteUbergraph_FirstPersonController:07E6
+[2018.02.17-04.51.10:276][791]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue2
+	FirstPersonController_C /Engine/Transient.World_1:PersistentLevel.FirstPersonController_C_0
+	Function /Game/Blueprints/FirstPersonController.FirstPersonController_C:ExecuteUbergraph_FirstPersonController:0797
+[2018.02.17-04.51.10:276][791]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	FirstPersonController_C /Engine/Transient.World_1:PersistentLevel.FirstPersonController_C_0
+	Function /Game/Blueprints/FirstPersonController.FirstPersonController_C:ExecuteUbergraph_FirstPersonController:07E6
+[2018.02.17-04.51.10:277][791]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue3
+	FirstPersonController_C /Engine/Transient.World_1:PersistentLevel.FirstPersonController_C_0
+	Function /Game/Blueprints/FirstPersonController.FirstPersonController_C:ExecuteUbergraph_FirstPersonController:0656
+[2018.02.17-04.51.10:277][791]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue3
+	FirstPersonController_C /Engine/Transient.World_1:PersistentLevel.FirstPersonController_C_0
+	Function /Game/Blueprints/FirstPersonController.FirstPersonController_C:ExecuteUbergraph_FirstPersonController:060C
+[2018.02.17-04.51.10:298][791]LogSlate: Took 0.009594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.17-04.51.10:834][792]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue2
+	FirstPersonController_C /Engine/Transient.World_1:PersistentLevel.FirstPersonController_C_0
+	Function /Game/Blueprints/FirstPersonController.FirstPersonController_C:ExecuteUbergraph_FirstPersonController:0797
+[2018.02.17-04.51.10:834][792]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	FirstPersonController_C /Engine/Transient.World_1:PersistentLevel.FirstPersonController_C_0
+	Function /Game/Blueprints/FirstPersonController.FirstPersonController_C:ExecuteUbergraph_FirstPersonController:07E6
+[2018.02.17-04.51.10:834][792]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue2
+	FirstPersonController_C /Engine/Transient.World_1:PersistentLevel.FirstPersonController_C_0
+	Function /Game/Blueprints/FirstPersonController.FirstPersonController_C:ExecuteUbergraph_FirstPersonController:0797
+[2018.02.17-04.51.10:835][792]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	FirstPersonController_C /Engine/Transient.World_1:PersistentLevel.FirstPersonController_C_0
+	Function /Game/Blueprints/FirstPersonController.FirstPersonController_C:ExecuteUbergraph_FirstPersonController:07E6
+[2018.02.17-04.51.10:835][792]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue3
+	FirstPersonController_C /Engine/Transient.World_1:PersistentLevel.FirstPersonController_C_0
+	Function /Game/Blueprints/FirstPersonController.FirstPersonController_C:ExecuteUbergraph_FirstPersonController:0656
+[2018.02.17-04.51.10:836][792]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue3
+	FirstPersonController_C /Engine/Transient.World_1:PersistentLevel.FirstPersonController_C_0
+	Function /Game/Blueprints/FirstPersonController.FirstPersonController_C:ExecuteUbergraph_FirstPersonController:060C
+[2018.02.17-04.51.10:866][792]LogSlate: Took 0.010193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.17-04.51.10:935][793]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue2
+	FirstPersonController_C /Engine/Transient.World_1:PersistentLevel.FirstPersonController_C_0
+	Function /Game/Blueprints/FirstPersonController.FirstPersonController_C:ExecuteUbergraph_FirstPersonController:0797
+[2018.02.17-04.51.10:935][793]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	FirstPersonController_C /Engine/Transient.World_1:PersistentLevel.FirstPersonController_C_0
+	Function /Game/Blueprints/FirstPersonController.FirstPersonController_C:ExecuteUbergraph_FirstPersonController:07E6
+[2018.02.17-04.51.10:935][793]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue2
+	FirstPersonController_C /Engine/Transient.World_1:PersistentLevel.FirstPersonController_C_0
+	Function /Game/Blueprints/FirstPersonController.FirstPersonController_C:ExecuteUbergraph_FirstPersonController:0797
+[2018.02.17-04.51.10:936][793]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue
+	FirstPersonController_C /Engine/Transient.World_1:PersistentLevel.FirstPersonController_C_0
+	Function /Game/Blueprints/FirstPersonController.FirstPersonController_C:ExecuteUbergraph_FirstPersonController:07E6
+[2018.02.17-04.51.10:936][793]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetPawn_ReturnValue3
+	FirstPersonController_C /Engine/Transient.World_1:PersistentLevel.FirstPersonController_C_0
+	Function /Game/Blueprints/FirstPersonController.FirstPersonController_C:ExecuteUbergraph_FirstPersonController:0656
+[2018.02.17-04.52.08:992][208]LogHttp: Warning: 000002BA5CE74D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.02.17-04.52.08:992][208]LogHttp: Warning: 000002BA5CE74D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.02.17-04.52.08:992][208]LogHttp: Warning: 000002BA5CE74D00: libcurl info message cache 1 (Closing connection 4)
+[2018.02.17-04.54.09:072][999]LogHttp: Warning: 000002BA5DA53400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.02.17-04.54.09:072][999]LogHttp: Warning: 000002BA5DA53400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.02.17-04.54.09:073][999]LogHttp: Warning: 000002BA5DA53400: libcurl info message cache 1 (Closing connection 5)
+[2018.02.17-04.54.46:166][771]LogSavePackage: Save=478.92ms
+[2018.02.17-04.54.46:166][771]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/FirstPersonController01EEC25844328CA2CCBCA48CF7D4B9DB.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonController.uasset'
+[2018.02.17-04.54.46:184][771]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonController.uasset
+[2018.02.17-04.55.00:032][ 71]BlueprintLog: New page: Compile FirstPersonController
+[2018.02.17-04.56.32:198][626]BlueprintLog: New page: Compile FirstPersonController
+[2018.02.17-04.56.33:350][626]LogSavePackage: Save=387.04ms
+[2018.02.17-04.56.33:350][626]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/FirstPersonController8CFFCCBC49B9B6DCACEF48A4543D9D68.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonController.uasset'
+[2018.02.17-04.56.33:359][626]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonController.uasset
+[2018.02.17-04.56.34:678][644]LogSavePackage: Save=387.39ms
+[2018.02.17-04.56.34:678][644]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/FirstPersonController3952E7434C1C8F24992A09B1C848BA7A.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonController.uasset'
+[2018.02.17-04.56.34:683][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonController.uasset
+[2018.02.17-04.56.53:993][102]LogRenderer: Reallocating scene render targets to support 764x488 Format 10 NumSamples 1 (Frame:1).
+[2018.02.17-04.57.10:746][470]LogSlate: Took 0.000462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.17-04.57.29:619][513]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0008 seconds. Added 2 classes and 2 folders.
+[2018.02.17-04.57.29:669][513]LogMaterial: Missing cached shader map for material DefaultParticle, compiling. 
+[2018.02.17-04.58.19:135][ 45]LogSlate: Took 0.000505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.17-04.58.24:493][ 56]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-04.58.28:733][ 57]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestMap' took 1.354
+[2018.02.17-04.58.28:742][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2018.02.17-04.58.28:948][ 57]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2018.02.17-04.58.28:948][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/FirstPersonCharacter]
+[2018.02.17-04.58.30:842][ 57]LogSavePackage: Save=1633.64ms
+[2018.02.17-04.58.30:842][ 57]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/FirstPersonCharacter_Auto13C0575CE4F8B1AC30266BBAE4933C7AA.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/Autosaves/Game/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2018.02.17-04.58.30:856][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/Autosaves/Game/Blueprints/FirstPersonCharacter_Auto1.uasset
+[2018.02.17-04.58.30:859][ 57]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TrailParticle] ([1] browsable assets)...
+[2018.02.17-04.58.30:877][ 57]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/TrailParticle.TrailParticle]
+[2018.02.17-04.58.30:877][ 57]OBJ SavePackage: Finished generating thumbnails for package [/Game/TrailParticle]
+[2018.02.17-04.58.30:993][ 57]LogSavePackage: Save=103.15ms
+[2018.02.17-04.58.30:993][ 57]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/TrailParticle_Auto121F3120F4A0ED0D72EF14C90C9F97264.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/Autosaves/Game/TrailParticle_Auto1.uasset'
+[2018.02.17-04.58.31:021][ 57]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/Autosaves/Game/TrailParticle_Auto1.uasset
+[2018.02.17-04.58.31:025][ 57]LogFileHelpers: Auto-saving content packages took 2.287
+[2018.02.17-04.59.51:822][348]LogCascade: Quitting Cascade. FXSystem=0x000002BA892BC360
+[2018.02.17-05.00.03:686][680]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2018.02.17-05.00.03:694][680]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.00.04:669][680]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.00.04:745][680]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.00.13:506][753]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.00.26:751][922]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.00.31:308][ 13]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.00.41:985][141]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.00.47:461][225]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.00.47:537][225]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.00.54:776][302]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.00.56:523][332]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.00.59:939][389]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.01.00:005][389]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.01.02:947][438]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.01.06:351][493]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.01.15:402][639]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.01.15:473][639]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.01.19:330][708]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.01.26:053][781]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.01.27:487][800]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.01.39:132][942]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.01.48:090][ 43]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.01.49:774][ 75]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.01.51:699][111]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.01.54:902][160]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.01.56:451][186]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.02.01:176][252]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.02.02:876][279]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.02.13:757][396]MaterialEditorStats: Base pass shader: 104 instructions
+[2018.02.17-05.02.13:757][396]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2018.02.17-05.02.13:757][396]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.17-05.02.13:758][396]MaterialEditorStats: Texture samplers: 2/16
+[2018.02.17-05.02.13:758][396]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.17-05.02.15:859][430]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.02.15:993][430]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.02.19:454][486]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.02.19:547][486]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.02.32:489][724]MaterialEditorStats: Base pass shader without light map: 33 instructions
+[2018.02.17-05.02.32:489][724]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.02.17-05.02.32:489][724]MaterialEditorStats: Texture samplers: 3/16
+[2018.02.17-05.02.32:489][724]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.17-05.02.45:700][963]LogMaterialEditor: Saving and Compiling material M_Ribbon
+[2018.02.17-05.02.48:769][963]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.02.48:880][963]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.02.48:931][963]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.02.49:042][963]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_Ribbon, compiling. 
+[2018.02.17-05.02.51:231][963]TextureStreamingBuild: Display: Compiling optional shaders took 2.204 seconds.
+[2018.02.17-05.02.55:098][963]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Ribbon" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Materials/M_Ribbon.uasset" SILENT=true
+[2018.02.17-05.02.55:155][963]LogSavePackage: Save=51.82ms
+[2018.02.17-05.02.55:155][963]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/M_Ribbon985EFDBD4C62B2FD539FBB80982D115C.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Materials/M_Ribbon.uasset'
+[2018.02.17-05.02.55:171][963]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Materials/M_Ribbon.uasset
+[2018.02.17-05.06.45:313][343]LogCascade: Non-seeded module ParticleModuleRequired
+[2018.02.17-05.08.34:684][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrailParticle" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset" SILENT=true
+[2018.02.17-05.08.34:767][917]LogSavePackage: Save=74.38ms
+[2018.02.17-05.08.34:767][917]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/TrailParticle249C92364E9B066FC52B21AAA8906765.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset'
+[2018.02.17-05.08.34:789][917]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset
+[2018.02.17-05.11.33:523][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrailParticle" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset" SILENT=true
+[2018.02.17-05.11.33:608][208]LogSavePackage: Save=50.42ms
+[2018.02.17-05.11.33:608][208]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/TrailParticle3B960D5F46AF3F54228D7695DEDB450B.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset'
+[2018.02.17-05.11.33:618][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset
+[2018.02.17-05.13.05:145][821]LogMaterial: Warning: Material /Game/Materials/M_Ribbon.M_Ribbon needed to have new flag set bUsedWithParticleSprites !
+[2018.02.17-05.13.05:198][821]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.13.17:692][ 44]LogMaterial: Warning: Material /Game/Materials/M_EndMarker.M_EndMarker needed to have new flag set bUsedWithParticleSprites !
+[2018.02.17-05.13.17:754][ 44]LogMaterial: Missing cached shader map for material M_EndMarker, compiling. 
+[2018.02.17-05.13.39:721][389]LogMaterial: Warning: Material /Game/Materials/M_Ribbon.M_Ribbon needed to have new flag set bUsedWithBeamTrails !
+[2018.02.17-05.13.39:774][389]LogMaterial: Missing cached shader map for material M_Ribbon, compiling. 
+[2018.02.17-05.13.53:927][577]LogEditorTransaction: Undo Edit Material
+[2018.02.17-05.13.54:517][580]LogEditorTransaction: Undo Edit Material
+[2018.02.17-05.13.55:134][585]LogEditorTransaction: Undo Edit Material
+[2018.02.17-05.13.55:862][592]LogEditorTransaction: Undo Edit Material
+[2018.02.17-05.14.17:532][ 13]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.02.17-05.14.17:818][ 13]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.02.17-05.14.17:854][ 13]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.02.17-05.14.29:267][292]LogMaterialEditor: Saving and Compiling material M_Ribbon
+[2018.02.17-05.14.29:356][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Ribbon" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Materials/M_Ribbon.uasset" SILENT=true
+[2018.02.17-05.14.29:418][292]LogSavePackage: Save=24.42ms
+[2018.02.17-05.14.29:418][292]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/M_Ribbon0235DACA4416EB44ED29019B3E18DD6B.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Materials/M_Ribbon.uasset'
+[2018.02.17-05.14.29:430][292]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Materials/M_Ribbon.uasset
+[2018.02.17-05.14.33:470][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrailParticle" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset" SILENT=true
+[2018.02.17-05.14.33:544][381]LogSavePackage: Save=55.27ms
+[2018.02.17-05.14.33:544][381]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/TrailParticle1F3C15CF478145115B0FA186DF43D030.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset'
+[2018.02.17-05.14.33:553][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset
+[2018.02.17-05.16.19:019][740]LogEditorTransaction: Undo Edit Module Editor Color
+[2018.02.17-05.16.19:864][752]LogEditorTransaction: Undo Edit Module Editor Color
+[2018.02.17-05.16.21:471][770]LogEditorTransaction: Undo Edit Module Editor Color
+[2018.02.17-05.16.22:318][779]LogEditorTransaction: Undo Edit Module Editor Color
+[2018.02.17-05.16.23:058][787]LogEditorTransaction: Undo Edit Max
+[2018.02.17-05.16.24:900][809]LogEditorTransaction: Redo Edit Max
+[2018.02.17-05.17.12:860][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrailParticle" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset" SILENT=true
+[2018.02.17-05.17.12:940][754]LogSavePackage: Save=42.26ms
+[2018.02.17-05.17.12:940][754]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/TrailParticleAF2FD7424DE307FF9E9546BD5007EEF7.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset'
+[2018.02.17-05.17.12:947][754]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset
+[2018.02.17-05.17.15:840][814]LogCascade: Quitting Cascade. FXSystem=0x000002BA8D25E5C0
+[2018.02.17-05.17.24:494][983]LogSavePackage: Save=189.19ms
+[2018.02.17-05.17.24:494][983]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/FirstPersonCharacter5CFDC010465A2B396B0126B04C20740B.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.17-05.17.24:509][983]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset
+[2018.02.17-05.17.32:538][101]LogSavePackage: Save=206.27ms
+[2018.02.17-05.17.32:538][101]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/FirstPersonCharacterF7807F0E4C72460497D7D0A28B8BE6CF.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.17-05.17.32:548][101]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset
+[2018.02.17-05.17.41:961][345]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.17-05.17.42:007][345]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.17.42:007][345]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.17-05.17.42:066][345]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.02.17-05.17.42:537][345]LogPlayLevel: PlayLevel: Blueprint regeneration took 529 ms (1 blueprints)
+[2018.02.17-05.17.42:537][345]PIE: New page: PIE session: TestMap (Feb 16, 2018, 1:17:42 PM)
+[2018.02.17-05.17.42:537][345]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2018.02.17-05.17.42:612][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075036s)
+[2018.02.17-05.17.42:615][345]LogAIModule: Creating AISystem for world TestMap
+[2018.02.17-05.17.42:616][345]LogPlayLevel: PIE: World Init took: (0.003020s)
+[2018.02.17-05.17.42:617][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.079124s)
+[2018.02.17-05.17.42:693][345]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-05.17.42:730][345]LogInit: FAudioDevice initialized.
+[2018.02.17-05.17.42:858][345]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.17-05.17.42:863][345]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2018.02.16-21.17.42
+[2018.02.17-05.17.42:864][345]LogWorld: Bringing up level for play took: 0.004006
+[2018.02.17-05.17.42:879][345]PIE: Play in editor start time for /Game/UEDPIE_0_TestMap 1.538
+[2018.02.17-05.17.42:880][345]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.17.44:564][390]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.17.46:901][469]LogBlueprintUserMessages: [FirstPersonController_C_0] Stopping replay
+[2018.02.17-05.17.46:902][469]LogBlueprintUserMessages: [FirstPersonController_C_0] Starting replay
+[2018.02.17-05.17.46:908][469]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Exited Start
+[2018.02.17-05.17.49:307][551]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.17.49:407][551]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.18.04:101][882]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.17-05.18.17:924][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrailParticle" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset" SILENT=true
+[2018.02.17-05.18.18:004][138]LogSavePackage: Save=55.94ms
+[2018.02.17-05.18.18:004][138]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/TrailParticleC75F95C744416D55C43C23909E68B943.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset'
+[2018.02.17-05.18.18:014][138]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset
+[2018.02.17-05.18.20:821][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrailParticle" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset" SILENT=true
+[2018.02.17-05.18.20:882][195]LogSavePackage: Save=40.82ms
+[2018.02.17-05.18.20:882][195]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/TrailParticle8009D2C34C84A973106EB8937C8188C5.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset'
+[2018.02.17-05.18.20:885][195]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset
+[2018.02.17-05.18.23:717][250]LogCascade: Quitting Cascade. FXSystem=0x000002BAA37C1300
+[2018.02.17-05.18.27:956][370]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.02.17-05.18.28:172][371]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.02.17-05.18.28:348][372]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.02.17-05.18.28:538][373]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2018.02.17-05.18.28:766][374]LogEditorViewport: Clicking Background
+[2018.02.17-05.18.29:657][413]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.17-05.18.29:722][413]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.18.29:722][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-05.18.29:723][413]PIE: New page: PIE session: TestMap (Feb 16, 2018, 1:18:29 PM)
+[2018.02.17-05.18.29:723][413]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2018.02.17-05.18.29:734][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011343s)
+[2018.02.17-05.18.29:736][413]LogAIModule: Creating AISystem for world TestMap
+[2018.02.17-05.18.29:736][413]LogPlayLevel: PIE: World Init took: (0.001839s)
+[2018.02.17-05.18.29:737][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.014008s)
+[2018.02.17-05.18.29:827][413]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-05.18.29:872][413]LogInit: FAudioDevice initialized.
+[2018.02.17-05.18.29:988][413]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.17-05.18.29:993][413]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2018.02.16-21.18.29
+[2018.02.17-05.18.29:999][413]LogWorld: Bringing up level for play took: 0.008392
+[2018.02.17-05.18.30:022][413]PIE: Play in editor start time for /Game/UEDPIE_0_TestMap 0.681
+[2018.02.17-05.18.30:023][413]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.18.30:165][414]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.094203 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2018.02.17-05.18.31:914][475]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.18.35:117][535]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.18.38:560][659]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.18.44:504][659]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.18.44:666][660]LogEditorViewport: Clicking Background
+[2018.02.17-05.20.10:546][351]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrailParticle" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset" SILENT=true
+[2018.02.17-05.20.10:646][351]LogSavePackage: Save=47.69ms
+[2018.02.17-05.20.10:646][351]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/TrailParticle33AAD63D43B4F384160693937C4F5C0A.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset'
+[2018.02.17-05.20.10:683][351]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset
+[2018.02.17-05.20.11:864][364]LogCascade: Quitting Cascade. FXSystem=0x000002BA814F85E0
+[2018.02.17-05.21.02:338][480]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestMap' took 0.067
+[2018.02.17-05.21.02:343][480]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_EndMarker] ([1] browsable assets)...
+[2018.02.17-05.21.02:432][480]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_EndMarker.M_EndMarker]
+[2018.02.17-05.21.02:433][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_EndMarker]
+[2018.02.17-05.21.02:511][480]LogSavePackage: Save=37.98ms
+[2018.02.17-05.21.02:511][480]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/M_EndMarker_Auto25FCBE83343A97677670D108E5A56E743.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/Autosaves/Game/Materials/M_EndMarker_Auto2.uasset'
+[2018.02.17-05.21.02:518][480]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/Autosaves/Game/Materials/M_EndMarker_Auto2.uasset
+[2018.02.17-05.21.02:518][480]LogFileHelpers: Auto-saving content packages took 0.178
+[2018.02.17-05.21.53:546][842]LogCascade: Quitting Cascade. FXSystem=0x000002BA622879C0
+[2018.02.17-05.21.55:281][901]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.17-05.21.55:329][901]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.21.55:330][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-05.21.55:330][901]PIE: New page: PIE session: TestMap (Feb 16, 2018, 1:21:55 PM)
+[2018.02.17-05.21.55:330][901]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2018.02.17-05.21.55:343][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012384s)
+[2018.02.17-05.21.55:344][901]LogAIModule: Creating AISystem for world TestMap
+[2018.02.17-05.21.55:345][901]LogPlayLevel: PIE: World Init took: (0.001776s)
+[2018.02.17-05.21.55:345][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.014986s)
+[2018.02.17-05.21.55:435][901]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-05.21.55:476][901]LogInit: FAudioDevice initialized.
+[2018.02.17-05.21.55:609][901]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.17-05.21.55:612][901]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2018.02.16-21.21.55
+[2018.02.17-05.21.55:613][901]LogWorld: Bringing up level for play took: 0.002504
+[2018.02.17-05.21.55:626][901]PIE: Play in editor start time for /Game/UEDPIE_0_TestMap 0.285
+[2018.02.17-05.21.55:626][901]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.21.55:866][902]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.094242 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2018.02.17-05.21.56:916][935]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.22.01:636][ 95]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.22.02:136][112]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.22.02:240][112]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.22.09:746][287]LogParticles: Warning: MaxCount =  602 for Emitter ParticleSpriteEmitter_0 (/Game/TrailParticle.TrailParticle)
+[2018.02.17-05.23.05:286][485]LogTexture: Display: Building textures: ThumbnailTexture (BGRA8, 512X512)
+[2018.02.17-05.24.23:949][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrailParticle" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset" SILENT=true
+[2018.02.17-05.24.24:003][  3]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.02.17-05.24.24:182][  3]LogSavePackage: Save=188.41ms
+[2018.02.17-05.24.24:183][  3]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/TrailParticle9CCB4C7E42C60F0491CA92947C720917.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset'
+[2018.02.17-05.24.24:201][  3]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset
+[2018.02.17-05.24.25:369][ 24]LogCascade: Quitting Cascade. FXSystem=0x000002BAA8EDC7C0
+[2018.02.17-05.24.42:607][381]LogSavePackage: Save=236.29ms
+[2018.02.17-05.24.42:607][381]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/FirstPersonCharacterDB87BBCF41EF7B030BBEF9AA0882C587.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.17-05.24.42:616][381]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset
+[2018.02.17-05.24.43:043][386]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.02.17-05.24.44:692][389]LogSavePackage: Save=190.28ms
+[2018.02.17-05.24.44:693][389]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/FirstPersonCharacter00DFBBED4EA8017D44E5F28708043DE4.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.17-05.24.44:699][389]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset
+[2018.02.17-05.24.56:349][709]LogParticles: Warning: MaxCount =  602 for Emitter ParticleSpriteEmitter_0 (/Game/TrailParticle.TrailParticle)
+[2018.02.17-05.27.03:181][530]LogParticles: Warning: MaxCount =  602 for Emitter ParticleSpriteEmitter_0 (/Game/TrailParticle.TrailParticle)
+[2018.02.17-05.27.24:843][716]LogParticles: Warning: MaxCount =  602 for Emitter ParticleSpriteEmitter_0 (/Game/TrailParticle.TrailParticle)
+[2018.02.17-05.27.32:880][776]LogParticles: Warning: MaxCount =  602 for Emitter ParticleSpriteEmitter_0 (/Game/TrailParticle.TrailParticle)
+[2018.02.17-05.27.39:366][924]LogParticles: Warning: MaxCount =  602 for Emitter ParticleSpriteEmitter_0 (/Game/TrailParticle.TrailParticle)
+[2018.02.17-05.27.57:822][222]LogParticles: Warning: MaxCount =  602 for Emitter ParticleSpriteEmitter_0 (/Game/TrailParticle.TrailParticle)
+[2018.02.17-05.27.58:858][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrailParticle" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset" SILENT=true
+[2018.02.17-05.27.58:956][242]LogSavePackage: Save=75.00ms
+[2018.02.17-05.27.58:956][242]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/TrailParticleCC0CCEF54067278E251C2288A5113036.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset'
+[2018.02.17-05.27.58:966][242]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset
+[2018.02.17-05.28.21:648][544]LogParticles: Warning: MaxCount =  602 for Emitter ParticleSpriteEmitter_0 (/Game/TrailParticle.TrailParticle)
+[2018.02.17-05.28.22:137][553]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.17-05.28.23:265][571]LogParticles: Warning: MaxCount =  602 for Emitter ParticleSpriteEmitter_0 (/Game/TrailParticle.TrailParticle)
+[2018.02.17-05.28.32:079][740]LogParticles: Warning: MaxCount =  602 for Emitter ParticleSpriteEmitter_0 (/Game/TrailParticle.TrailParticle)
+[2018.02.17-05.29.11:438][435]LogParticles: Warning: MaxCount =  602 for Emitter ParticleSpriteEmitter_0 (/Game/TrailParticle.TrailParticle)
+[2018.02.17-05.29.15:275][501]LogParticles: Warning: MaxCount =  602 for Emitter ParticleSpriteEmitter_0 (/Game/TrailParticle.TrailParticle)
+[2018.02.17-05.30.57:168][127]LogParticles: Warning: MaxCount =  602 for Emitter ParticleSpriteEmitter_0 (/Game/TrailParticle.TrailParticle)
+[2018.02.17-05.31.05:513][306]LogParticles: Warning: MaxCount =  602 for Emitter ParticleSpriteEmitter_0 (/Game/TrailParticle.TrailParticle)
+[2018.02.17-05.31.24:366][615]LogParticles: Warning: MaxCount =  602 for Emitter ParticleSpriteEmitter_0 (/Game/TrailParticle.TrailParticle)
+[2018.02.17-05.31.29:486][719]LogParticles: Warning: MaxCount =  602 for Emitter ParticleSpriteEmitter_0 (/Game/TrailParticle.TrailParticle)
+[2018.02.17-05.31.31:691][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrailParticle" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset" SILENT=true
+[2018.02.17-05.31.31:806][765]LogSavePackage: Save=83.93ms
+[2018.02.17-05.31.31:807][765]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/TrailParticle3E81454A4E9DC32CAAF52AAB97A33FA8.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset'
+[2018.02.17-05.31.31:816][765]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset
+[2018.02.17-05.31.35:735][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrailParticle" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset" SILENT=true
+[2018.02.17-05.31.35:805][846]LogSavePackage: Save=52.92ms
+[2018.02.17-05.31.35:805][846]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/TrailParticle854FA52D4275CBE79F1F0BB38018FF56.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset'
+[2018.02.17-05.31.35:814][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset
+[2018.02.17-05.31.36:766][862]LogCascade: Quitting Cascade. FXSystem=0x000002BA957D68E0
+[2018.02.17-05.31.40:037][988]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.17-05.31.40:091][988]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.31.40:091][988]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-05.31.40:092][988]PIE: New page: PIE session: TestMap (Feb 16, 2018, 1:31:40 PM)
+[2018.02.17-05.31.40:092][988]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2018.02.17-05.31.40:105][988]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012803s)
+[2018.02.17-05.31.40:107][988]LogAIModule: Creating AISystem for world TestMap
+[2018.02.17-05.31.40:107][988]LogPlayLevel: PIE: World Init took: (0.002050s)
+[2018.02.17-05.31.40:108][988]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.016005s)
+[2018.02.17-05.31.40:180][988]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-05.31.40:215][988]LogInit: FAudioDevice initialized.
+[2018.02.17-05.31.40:339][988]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.17-05.31.40:343][988]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2018.02.16-21.31.40
+[2018.02.17-05.31.40:344][988]LogWorld: Bringing up level for play took: 0.002956
+[2018.02.17-05.31.40:359][988]PIE: Play in editor start time for /Game/UEDPIE_0_TestMap 1.018
+[2018.02.17-05.31.40:361][988]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.31.40:597][989]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.095535 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2018.02.17-05.31.41:812][ 26]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.31.50:181][329]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.31.54:285][495]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.31.58:801][679]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.32.02:360][825]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.32.08:494][ 77]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.32.14:244][312]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.32.14:342][312]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.32.21:565][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrailParticle" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset" SILENT=true
+[2018.02.17-05.32.21:669][505]LogSavePackage: Save=77.18ms
+[2018.02.17-05.32.21:669][505]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/TrailParticle5B76803A449F7B07DDE4EDA1CE28B1ED.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset'
+[2018.02.17-05.32.21:681][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset
+[2018.02.17-05.32.52:188][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrailParticle" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset" SILENT=true
+[2018.02.17-05.32.52:296][110]LogSavePackage: Save=88.60ms
+[2018.02.17-05.32.52:296][110]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/TrailParticle484487004AFCA883F446D78CF2F22695.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset'
+[2018.02.17-05.32.52:308][110]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset
+[2018.02.17-05.32.59:005][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TrailParticle" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset" SILENT=true
+[2018.02.17-05.32.59:087][236]LogSavePackage: Save=64.02ms
+[2018.02.17-05.32.59:088][236]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/TrailParticle3C3BEF8A4A10FD10DF77D9AB5A7A2385.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset'
+[2018.02.17-05.32.59:098][236]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TrailParticle.uasset
+[2018.02.17-05.33.27:109][842]LogCascade: Quitting Cascade. FXSystem=0x000002BA58DD2DE0
+[2018.02.17-05.33.28:721][894]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.17-05.33.28:772][894]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.33.28:772][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-05.33.28:772][894]PIE: New page: PIE session: TestMap (Feb 16, 2018, 1:33:28 PM)
+[2018.02.17-05.33.28:772][894]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2018.02.17-05.33.28:782][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009796s)
+[2018.02.17-05.33.28:784][894]LogAIModule: Creating AISystem for world TestMap
+[2018.02.17-05.33.28:784][894]LogPlayLevel: PIE: World Init took: (0.001617s)
+[2018.02.17-05.33.28:785][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.012265s)
+[2018.02.17-05.33.28:852][894]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-05.33.28:890][894]LogInit: FAudioDevice initialized.
+[2018.02.17-05.33.29:003][894]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.17-05.33.29:006][894]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2018.02.16-21.33.29
+[2018.02.17-05.33.29:007][894]LogWorld: Bringing up level for play took: 0.002655
+[2018.02.17-05.33.29:021][894]PIE: Play in editor start time for /Game/UEDPIE_0_TestMap -0.32
+[2018.02.17-05.33.29:022][894]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.33.29:151][895]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.093997 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2018.02.17-05.33.29:968][928]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.33.33:305][ 52]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.33.34:751][111]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.33.35:091][125]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.33.38:723][274]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.33.38:821][274]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.38.04:061][437]LogCascade: Quitting Cascade. FXSystem=0x000002BA42C53100
+[2018.02.17-05.38.58:209][923]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TestMap' took 0.088
+[2018.02.17-05.38.58:215][923]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BeamParticle] ([1] browsable assets)...
+[2018.02.17-05.38.58:233][923]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/BeamParticle.BeamParticle]
+[2018.02.17-05.38.58:233][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/BeamParticle]
+[2018.02.17-05.38.58:353][923]LogSavePackage: Save=105.01ms
+[2018.02.17-05.38.58:353][923]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/BeamParticle_Auto34C8AE3D545B9D4C2084EC882F6B80BBB.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/Autosaves/Game/BeamParticle_Auto3.uasset'
+[2018.02.17-05.38.58:361][923]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/Autosaves/Game/BeamParticle_Auto3.uasset
+[2018.02.17-05.38.58:361][923]LogFileHelpers: Auto-saving content packages took 0.150
+[2018.02.17-05.42.12:217][677]LogCascade: Quitting Cascade. FXSystem=0x000002BAA2531620
+[2018.02.17-05.42.19:915][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BeamParticle" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/BeamParticle.uasset" SILENT=true
+[2018.02.17-05.42.19:971][765]LogSavePackage: Save=49.64ms
+[2018.02.17-05.42.19:971][765]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/BeamParticle796ABE7947BE1BB64D1BB8B059F85C49.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/BeamParticle.uasset'
+[2018.02.17-05.42.19:990][765]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/BeamParticle.uasset
+[2018.02.17-05.47.10:650][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestMap" FILE="../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.17-05.47.11:385][837]LogSavePackage: Save=558.30ms
+[2018.02.17-05.47.11:385][837]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/TestMap579D80B64A23D8ADEE69DFBA83DC57F0.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TestMap.umap'
+[2018.02.17-05.47.11:401][837]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/TestMap.umap
+[2018.02.17-05.50.34:016][444]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.02.17-05.50.35:922][452]LogSavePackage: Save=219.86ms
+[2018.02.17-05.50.35:922][452]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/FirstPersonCharacterD78DEE1743C0F5995ED973808E72794E.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.17-05.50.35:959][452]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset
+[2018.02.17-05.53.50:549][ 81]LogEditorTransaction: Undo Set Location
+[2018.02.17-05.53.50:609][ 81]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_24:PersistentLevel.FirstPersonCharacter_C_22.CollisionCylinder) Component already registered.
+[2018.02.17-05.53.59:705][234]LogSavePackage: Save=243.57ms
+[2018.02.17-05.53.59:705][234]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/FirstPersonCharacterA3B12046416895402EA60DB71D4BDA47.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.17-05.53.59:714][234]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset
+[2018.02.17-05.54.09:735][439]LogSavePackage: Save=235.81ms
+[2018.02.17-05.54.09:735][439]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/FirstPersonCharacterC2C8B0394990D82E6E7C6F9770BD8FB5.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.17-05.54.09:746][439]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset
+[2018.02.17-05.55.00:812][624]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.02.17-05.55.02:288][625]LogSavePackage: Save=207.81ms
+[2018.02.17-05.55.02:288][625]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/FirstPersonCharacter7367D64247AE9B4125C6809D9061A3FD.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.17-05.55.02:300][625]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset
+[2018.02.17-05.55.03:233][638]LogSavePackage: Save=192.81ms
+[2018.02.17-05.55.03:233][638]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/FirstPersonCharacter1070123845029C665C4C748112539927.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.17-05.55.03:238][638]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset
+[2018.02.17-05.55.03:762][649]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.17-05.55.03:821][649]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.55.03:821][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-05.55.03:822][649]PIE: New page: PIE session: TestMap (Feb 16, 2018, 1:55:03 PM)
+[2018.02.17-05.55.03:822][649]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2018.02.17-05.55.03:834][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011495s)
+[2018.02.17-05.55.03:836][649]LogAIModule: Creating AISystem for world TestMap
+[2018.02.17-05.55.03:841][649]LogPlayLevel: PIE: World Init took: (0.006354s)
+[2018.02.17-05.55.03:841][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.019049s)
+[2018.02.17-05.55.03:923][649]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-05.55.03:967][649]LogInit: FAudioDevice initialized.
+[2018.02.17-05.55.04:112][649]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.17-05.55.04:115][649]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.02.16-21.55.04
+[2018.02.17-05.55.04:116][649]LogWorld: Bringing up level for play took: 0.002085
+[2018.02.17-05.55.04:134][649]PIE: Play in editor start time for /Game/UEDPIE_0_TestMap 0.792
+[2018.02.17-05.55.04:135][649]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.55.05:630][682]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.55.06:607][705]LogBlueprintUserMessages: [FirstPersonController_C_0] Stopping replay
+[2018.02.17-05.55.06:607][705]LogBlueprintUserMessages: [FirstPersonController_C_0] Starting replay
+[2018.02.17-05.55.06:614][705]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Exited Start
+[2018.02.17-05.55.10:333][785]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.55.10:451][785]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.56.59:980][115]LogSavePackage: Save=374.62ms
+[2018.02.17-05.56.59:981][115]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/FirstPersonController0E948303416E70253EDFA7AD7DF9D075.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonController.uasset'
+[2018.02.17-05.56.59:990][115]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonController.uasset
+[2018.02.17-05.57.00:352][122]BlueprintLog: New page: Compile FirstPersonController
+[2018.02.17-05.57.01:948][132]LogSavePackage: Save=401.97ms
+[2018.02.17-05.57.01:948][132]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/FirstPersonControllerA06E66B34719AB4489CEECA4116A2CE3.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonController.uasset'
+[2018.02.17-05.57.01:953][132]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonController.uasset
+[2018.02.17-05.57.06:378][258]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.17-05.57.06:439][258]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.57.06:439][258]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-05.57.06:440][258]PIE: New page: PIE session: TestMap (Feb 16, 2018, 1:57:06 PM)
+[2018.02.17-05.57.06:440][258]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2018.02.17-05.57.06:450][258]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009546s)
+[2018.02.17-05.57.06:451][258]LogAIModule: Creating AISystem for world TestMap
+[2018.02.17-05.57.06:452][258]LogPlayLevel: PIE: World Init took: (0.001853s)
+[2018.02.17-05.57.06:452][258]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.012358s)
+[2018.02.17-05.57.06:523][258]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-05.57.06:557][258]LogInit: FAudioDevice initialized.
+[2018.02.17-05.57.06:685][258]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.17-05.57.06:688][258]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.02.16-21.57.06
+[2018.02.17-05.57.06:689][258]LogWorld: Bringing up level for play took: 0.002750
+[2018.02.17-05.57.06:707][258]PIE: Play in editor start time for /Game/UEDPIE_0_TestMap -0.635
+[2018.02.17-05.57.06:708][258]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.57.06:929][259]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.094394 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_0', movement 'Walking'
+[2018.02.17-05.57.08:032][298]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.57.09:444][346]LogBlueprintUserMessages: [FirstPersonController_C_0] Stopping replay
+[2018.02.17-05.57.09:444][346]LogBlueprintUserMessages: [FirstPersonController_C_0] Starting replay
+[2018.02.17-05.57.09:451][346]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Exited Start
+[2018.02.17-05.57.28:760][816]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.57.28:907][816]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.58.42:979][276]LogSavePackage: Save=204.08ms
+[2018.02.17-05.58.42:980][276]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/ReplayController784D475C43611CD9AA312C9C696BDA3F.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/ReplayController.uasset'
+[2018.02.17-05.58.42:993][276]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/ReplayController.uasset
+[2018.02.17-05.58.43:972][293]BlueprintLog: New page: Compile ReplayController
+[2018.02.17-05.58.45:604][301]LogSavePackage: Save=210.17ms
+[2018.02.17-05.58.45:604][301]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/ReplayControllerD902C6EA4041D0FA9EA1A2AAB65F7769.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/ReplayController.uasset'
+[2018.02.17-05.58.45:609][301]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/ReplayController.uasset
+[2018.02.17-05.59.21:821][ 43]LogSavePackage: Save=221.37ms
+[2018.02.17-05.59.21:821][ 43]LogSavePackage: Moving '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Saved/FirstPersonCharacter441E7CED4E9D38C73792C5A3CD8872F9.tmp' to '../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.17-05.59.21:825][ 43]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Matt/Documents/GameProjects/Unreal/Investiture/Investiture/Content/Blueprints/FirstPersonCharacter.uasset
+[2018.02.17-05.59.24:657][101]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.17-05.59.24:735][101]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.59.24:735][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.17-05.59.24:735][101]PIE: New page: PIE session: TestMap (Feb 16, 2018, 1:59:24 PM)
+[2018.02.17-05.59.24:736][101]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestMap
+[2018.02.17-05.59.24:747][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010985s)
+[2018.02.17-05.59.24:748][101]LogAIModule: Creating AISystem for world TestMap
+[2018.02.17-05.59.24:749][101]LogPlayLevel: PIE: World Init took: (0.001977s)
+[2018.02.17-05.59.24:750][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestMap.TestMap to /Game/UEDPIE_0_TestMap.TestMap (0.014128s)
+[2018.02.17-05.59.24:835][101]LogInit: XAudio2 using 'Headphones (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.17-05.59.24:881][101]LogInit: FAudioDevice initialized.
+[2018.02.17-05.59.25:037][101]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.02.17-05.59.25:040][101]LogWorld: Bringing World /Game/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2018.02.16-21.59.25
+[2018.02.17-05.59.25:040][101]LogWorld: Bringing up level for play took: 0.001999
+[2018.02.17-05.59.25:062][101]PIE: Play in editor start time for /Game/UEDPIE_0_TestMap -0.28
+[2018.02.17-05.59.25:063][101]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/TestMap.TestMap_C' with ClassGeneratedBy '/Game/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.02.17-05.59.26:867][133]LogBlueprintUserMessages: [FirstPersonCharacter_C_0] Exited Start
+[2018.02.17-05.59.28:476][165]LogBlueprintUserMessages: [FirstPersonController_C_0] Stopping replay
+[2018.02.17-05.59.28:477][165]LogBlueprintUserMessages: [FirstPersonController_C_0] Starting replay
+[2018.02.17-05.59.28:485][165]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] Exited Start
+[2018.02.17-05.59.28:486][165]LogOutputDevice: Warning: 
+
+Script Stack:
+FirstPersonCharacter_C.AddSplinePoint
+ReplayController_C.ExecuteUbergraph_ReplayController
+ReplayController_C.ReceiveTick
+
+[2018.02.17-05.59.30:559][165]LogStats: FPlatformStackWalk::StackWalkAndDump -  2.073 s
+[2018.02.17-05.59.30:559][165]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.17-05.59.30:559][165]LogOutputDevice: Error: 
+[2018.02.17-05.59.30:559][165]LogOutputDevice: Error: Ensure condition failed: Position.Points[Index - 1].InVal < Position.Points[Index].InVal [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\Components\SplineComponent.cpp] [Line: 145]
+[2018.02.17-05.59.30:559][165]LogOutputDevice: Error: 
+[2018.02.17-05.59.30:559][165]LogOutputDevice: Error: Stack: 
+[2018.02.17-05.59.30:559][165]LogOutputDevice: Error: [Callstack] 0x00000000C5232786 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.17-05.59.30:559][165]LogOutputDevice: Error: [Callstack] 0x00000000C4FD123A UE4Editor-Core.dll!UnknownFunction []
+[2018.02.17-05.59.30:559][165]LogOutputDevice: Error: [Callstack] 0x00000000C4FEB906 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.17-05.59.30:559][165]LogOutputDevice: Error: [Callstack] 0x00000000C1E0EDC8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-05.59.30:560][165]LogOutputDevice: Error: [Callstack] 0x00000000C1E0F1D2 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-05.59.30:560][165]LogOutputDevice: Error: [Callstack] 0x00000000C1DC6F4A UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-05.59.30:560][165]LogOutputDevice: Error: [Callstack] 0x00000000C1E11004 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-05.59.30:560][165]LogOutputDevice: Error: [Callstack] 0x00000000C4245264 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.17-05.59.30:560][165]LogOutputDevice: Error: [Callstack] 0x00000000C4409B74 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.17-05.59.30:560][165]LogOutputDevice: Error: [Callstack] 0x00000000C441FA41 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.17-05.59.30:560][165]LogOutputDevice: Error: [Callstack] 0x00000000C4421B72 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.17-05.59.30:560][165]LogOutputDevice: Error: [Callstack] 0x00000000C440A57E UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.17-05.59.30:560][165]LogOutputDevice: Error: [Callstack] 0x00000000C441FA41 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.17-05.59.30:560][165]LogOutputDevice: Error: [Callstack] 0x00000000C4421B72 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.17-05.59.30:560][165]LogOutputDevice: Error: [Callstack] 0x00000000C440A57E UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.17-05.59.30:560][165]LogOutputDevice: Error: [Callstack] 0x00000000C4421B72 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.17-05.59.30:560][165]LogOutputDevice: Error: [Callstack] 0x00000000C4245264 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.17-05.59.30:560][165]LogOutputDevice: Error: [Callstack] 0x00000000C4420F66 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x00000000C188E64B UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x00000000C2A7173A UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x00000000C18B05FC UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x00000000C060FCF7 UE4Editor-AIModule.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x00000000C21D904A UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x00000000C18658B6 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x00000000C28B9BDB UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x00000000C28BDD0B UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x00000000C4E94845 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x00000000C4E94E2A UE4Editor-Core.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x00000000C4EB589E UE4Editor-Core.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x00000000C28D7E11 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x00000000C28DC632 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x00000000C21CD104 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x00000000C21D66F8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x00000000B53C6BA6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x00000000B5C74AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x0000000031C85A26 UE4Editor.exe!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x0000000031C95430 UE4Editor.exe!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x0000000031C954AA UE4Editor.exe!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x0000000031CA2379 UE4Editor.exe!UnknownFunction []
+[2018.02.17-05.59.30:561][165]LogOutputDevice: Error: [Callstack] 0x0000000031CA3D57 UE4Editor.exe!UnknownFunction []
+[2018.02.17-05.59.30:562][165]LogOutputDevice: Error: [Callstack] 0x00000000FF491FE4 KERNEL32.DLL!UnknownFunction []
+[2018.02.17-05.59.30:562][165]LogOutputDevice: Error: [Callstack] 0x00000000007BEFC1 ntdll.dll!UnknownFunction []
+[2018.02.17-05.59.30:562][165]LogOutputDevice: Error: 
+[2018.02.17-05.59.30:563][165]LogStats:                SubmitErrorReport -  0.000 s

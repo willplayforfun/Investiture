@@ -1,0 +1,12 @@
+confetti sound
+step sound?
+door open sound
+button activate
+button deactivate
+box grab
+box hit ground
+box drop
+box spawn?
+floor collapse sound
+jump sound
+land sound
